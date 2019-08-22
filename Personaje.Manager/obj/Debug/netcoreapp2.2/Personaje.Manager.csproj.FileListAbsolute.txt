@@ -1,0 +1,16 @@
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\bin\Debug\netcoreapp2.2\Personaje.Manager.deps.json
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\bin\Debug\netcoreapp2.2\Personaje.Manager.runtimeconfig.json
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\bin\Debug\netcoreapp2.2\Personaje.Manager.runtimeconfig.dev.json
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\bin\Debug\netcoreapp2.2\Personaje.Manager.dll
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\bin\Debug\netcoreapp2.2\Personaje.Manager.pdb
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\bin\Debug\netcoreapp2.2\Personajes.Data.dll
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\bin\Debug\netcoreapp2.2\Personajes.Modelos.dll
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\bin\Debug\netcoreapp2.2\Personajes.Data.pdb
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\bin\Debug\netcoreapp2.2\Personajes.Modelos.pdb
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\obj\Debug\netcoreapp2.2\Personaje.Manager.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\obj\Debug\netcoreapp2.2\Personaje.Manager.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\obj\Debug\netcoreapp2.2\Personaje.Manager.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\obj\Debug\netcoreapp2.2\Personaje.Manager.AssemblyInfo.cs
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\obj\Debug\netcoreapp2.2\Personaje.Manager.csproj.CopyComplete
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\obj\Debug\netcoreapp2.2\Personaje.Manager.dll
+C:\Users\wilso\source\repos\MetalBroxstarChaos\Personaje.Manager\obj\Debug\netcoreapp2.2\Personaje.Manager.pdb
